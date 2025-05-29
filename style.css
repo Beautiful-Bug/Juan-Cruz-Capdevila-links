@@ -1,18 +1,17 @@
-
 body {
   font-family: sans-serif;
   margin: 2em;
-  background-color: #f9f9f9;
-  color: #333;
+  background-color: #f49dff;
+  color: #f2fff0;
 }
 
 h1 {
-  color: #2c3e50;
+  color: #55b9b4;
 }
 
 a {
   color: #2980b9;
-  text-decoration: none;
+  text-decoration: slateblue;
 }
 
 a:hover {
