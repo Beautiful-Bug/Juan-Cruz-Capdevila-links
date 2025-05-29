@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-<<<<<<< HEAD
   margin: 6em;
   background-color: #ffe3ff;
   color: #b06c00;
@@ -11,22 +10,8 @@ h1 {
 }
 
 a {
-  color: #871385;
-  text-decoration: none;
-=======
-  margin: 2em;
-  background-color: #f49dff;
-  color: #f2fff0;
-}
-
-h1 {
-  color: #55b9b4;
-}
-
-a {
   color: #2980b9;
   text-decoration: slateblue;
->>>>>>> 09236901835bb0974f341846bf5c0ceda3d601e4
 }
 
 a:hover {
